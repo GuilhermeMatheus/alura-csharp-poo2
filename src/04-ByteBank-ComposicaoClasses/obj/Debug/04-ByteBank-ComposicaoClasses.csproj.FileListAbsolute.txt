@@ -1,0 +1,6 @@
+C:\Alura\alura-csharp-poo\src\04-ByteBank-ComposicaoClasses\bin\Debug\04-ByteBank-ComposicaoClasses.exe.config
+C:\Alura\alura-csharp-poo\src\04-ByteBank-ComposicaoClasses\bin\Debug\04-ByteBank-ComposicaoClasses.exe
+C:\Alura\alura-csharp-poo\src\04-ByteBank-ComposicaoClasses\bin\Debug\04-ByteBank-ComposicaoClasses.pdb
+C:\Alura\alura-csharp-poo\src\04-ByteBank-ComposicaoClasses\obj\Debug\04-ByteBank-ComposicaoClasses.csproj.CoreCompileInputs.cache
+C:\Alura\alura-csharp-poo\src\04-ByteBank-ComposicaoClasses\obj\Debug\04-ByteBank-ComposicaoClasses.exe
+C:\Alura\alura-csharp-poo\src\04-ByteBank-ComposicaoClasses\obj\Debug\04-ByteBank-ComposicaoClasses.pdb

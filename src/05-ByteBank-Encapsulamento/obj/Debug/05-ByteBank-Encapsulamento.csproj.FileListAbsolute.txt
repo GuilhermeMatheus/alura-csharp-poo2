@@ -1,0 +1,7 @@
+C:\Alura\alura-csharp-poo\src\05-ByteBank-Encapsulamento\bin\Debug\05-ByteBank-Encapsulamento.exe.config
+C:\Alura\alura-csharp-poo\src\05-ByteBank-Encapsulamento\bin\Debug\05-ByteBank-Encapsulamento.exe
+C:\Alura\alura-csharp-poo\src\05-ByteBank-Encapsulamento\bin\Debug\05-ByteBank-Encapsulamento.pdb
+C:\Alura\alura-csharp-poo\src\05-ByteBank-Encapsulamento\obj\Debug\05-ByteBank-Encapsulamento.csprojResolveAssemblyReference.cache
+C:\Alura\alura-csharp-poo\src\05-ByteBank-Encapsulamento\obj\Debug\05-ByteBank-Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Alura\alura-csharp-poo\src\05-ByteBank-Encapsulamento\obj\Debug\05-ByteBank-Encapsulamento.exe
+C:\Alura\alura-csharp-poo\src\05-ByteBank-Encapsulamento\obj\Debug\05-ByteBank-Encapsulamento.pdb

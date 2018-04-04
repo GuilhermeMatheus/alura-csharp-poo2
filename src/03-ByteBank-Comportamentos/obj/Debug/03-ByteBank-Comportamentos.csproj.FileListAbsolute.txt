@@ -1,0 +1,7 @@
+C:\Alura\alura-csharp-poo\src\ByteBank-Comportamentos\bin\Debug\ByteBank-Comportamentos.exe.config
+C:\Alura\alura-csharp-poo\src\ByteBank-Comportamentos\bin\Debug\ByteBank-Comportamentos.exe
+C:\Alura\alura-csharp-poo\src\ByteBank-Comportamentos\bin\Debug\ByteBank-Comportamentos.pdb
+C:\Alura\alura-csharp-poo\src\ByteBank-Comportamentos\obj\Debug\03-ByteBank-Comportamentos.csprojResolveAssemblyReference.cache
+C:\Alura\alura-csharp-poo\src\ByteBank-Comportamentos\obj\Debug\03-ByteBank-Comportamentos.csproj.CoreCompileInputs.cache
+C:\Alura\alura-csharp-poo\src\ByteBank-Comportamentos\obj\Debug\ByteBank-Comportamentos.exe
+C:\Alura\alura-csharp-poo\src\ByteBank-Comportamentos\obj\Debug\ByteBank-Comportamentos.pdb

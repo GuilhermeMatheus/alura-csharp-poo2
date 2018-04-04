@@ -1,0 +1,7 @@
+C:\Alura\alura-csharp-poo\src\06-ByteBank-Construtores\bin\Debug\06-ByteBank-Construtores.exe.config
+C:\Alura\alura-csharp-poo\src\06-ByteBank-Construtores\bin\Debug\06-ByteBank-Construtores.exe
+C:\Alura\alura-csharp-poo\src\06-ByteBank-Construtores\bin\Debug\06-ByteBank-Construtores.pdb
+C:\Alura\alura-csharp-poo\src\06-ByteBank-Construtores\obj\Debug\06-ByteBank-Construtores.csproj.CoreCompileInputs.cache
+C:\Alura\alura-csharp-poo\src\06-ByteBank-Construtores\obj\Debug\06-ByteBank-Construtores.exe
+C:\Alura\alura-csharp-poo\src\06-ByteBank-Construtores\obj\Debug\06-ByteBank-Construtores.pdb
+C:\Alura\alura-csharp-poo\src\06-ByteBank-Construtores\obj\Debug\06-ByteBank-Construtores.csprojResolveAssemblyReference.cache
